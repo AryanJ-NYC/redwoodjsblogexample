@@ -1447,17 +1447,17 @@
     findup-sync "^4.0.0"
     toml "^3.0.0"
 
-"@redwoodjs/router@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@redwoodjs/router/-/router-0.2.0.tgz#4dd28c75b12459b0d2b0e9c9a63c7f85e4bf0635"
-  integrity sha512-ALq3rTERKpe/xoWrZQ6rJHGHG12dQL1ZZdDVrtswER/iCn51bNZdRTvkl0vPEc0XY4cKrxiB7KDDs21V7usTmw==
+"@redwoodjs/router@^0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@redwoodjs/router/-/router-0.2.2.tgz#7a325c11a459d4010cc570fcbe68600c40296c14"
+  integrity sha512-rEjLMhqnzaz/C9TlaHY5Y3ez8AiO5iPNLzZF/wBS0V3+1WInCYxuO84Dk+m5xMmJe8uW1mDV0fY5gnRHTXWxVw==
   dependencies:
     core-js "3.6.4"
 
-"@redwoodjs/web@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@redwoodjs/web/-/web-0.2.0.tgz#e1fc64f73c82d395100b0526321b92708b52cd2b"
-  integrity sha512-5UOjNM1KhNtntkln+U8pUVKqBB4lJTZL+sKhRkDnH0o+AtuFmEbvkZvbmfmm7QXHbITe++9YCkQCWaokLIydjQ==
+"@redwoodjs/web@^0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@redwoodjs/web/-/web-0.2.2.tgz#ccf517e95ec8f188df86f35c65311c4436793e75"
+  integrity sha512-RNU3v1BVFWLNr7jJ0++hOQSLSm/YEN6W5JWwsmPc7zXD4uK9uvBiGTcl2yPi2xKAEIp/wMe3yZRDLFC2birMMg==
   dependencies:
     "@apollo/react-components" "^3.1.3"
     "@apollo/react-hooks" "^3.1.3"
